@@ -97,31 +97,18 @@ erDiagram
 ```text
 .
 ├── README.md
-└── sql/
-    ├── 01_schema.sql
-    ├── 02_sample_data.sql
-    ├── 03_queries.sql
-    ├── 04_plsql.sql
-    └── 05_performance_and_views.sql
+└── xfedor14_xramas01.sql   # original university project file
 ```
 
 ## How to run
 
-The scripts are written for Oracle Database / Oracle SQL Developer.
+The project is written for Oracle Database / Oracle SQL Developer.
 
-Run them in this order:
-
-1. `sql/01_schema.sql`
-2. `sql/02_sample_data.sql`
-3. `sql/03_queries.sql`
-4. `sql/04_plsql.sql`
-5. `sql/05_performance_and_views.sql`
-
-`SET SERVEROUTPUT ON` is required to see output from the PL/SQL procedures.
+Run `xfedor14_xramas01.sql` as the main project script. `SET SERVEROUTPUT ON` may be enabled in Oracle SQL Developer to display output from PL/SQL procedures.
 
 ## Notes
 
-This coursework was completed as a team project. The files under `sql/` reorganize and clean the project for readability and portfolio presentation while keeping the same database concepts and functionality.
+This coursework was completed as a team project. The original SQL file is preserved unchanged in this repository.
 
 ## Skills demonstrated
 
