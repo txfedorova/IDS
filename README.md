@@ -115,7 +115,3 @@ Run `xfedor14_xramas01.sql` as the main project script. `SET SERVEROUTPUT ON` ma
 ## Notes
 
 This coursework was completed as a team project. The original SQL file is preserved unchanged in this repository.
-
-## Skills demonstrated
-
-`Oracle SQL` · `PL/SQL` · `Relational Databases` · `Joins` · `Subqueries` · `CTEs` · `Triggers` · `Stored Procedures` · `Indexes` · `EXPLAIN PLAN` · `Materialized Views`
