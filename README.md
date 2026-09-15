@@ -92,11 +92,17 @@ erDiagram
     }
 ```
 
+## Documentation
+
+The original project documentation with the use-case diagram and database model is available in [`docs/database-design.pdf`](docs/database-design.pdf).
+
 ## Repository structure
 
 ```text
 .
 ├── README.md
+├── docs/
+│   └── database-design.pdf
 └── xfedor14_xramas01.sql   # original university project file
 ```
 
