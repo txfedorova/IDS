@@ -1,8 +1,6 @@
-# Oracle Inventory Database
+# IDS / Database Systems
 
-University database project implemented in Oracle SQL and PL/SQL. The system models a small retail inventory domain with branches, products, suppliers, deliveries, sales, stock levels and price history.
-
-This repository contains a cleaned portfolio version of the original coursework together with the original submitted SQL file for transparency.
+Oracle SQL/PLSQL relational database project with joins, triggers, stored procedures, indexing and materialized views.
 
 ## What this project demonstrates
 
