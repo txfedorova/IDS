@@ -111,7 +111,3 @@ The original project documentation with the use-case diagram and database model 
 The project is written for Oracle Database / Oracle SQL Developer.
 
 Run `xfedor14_xramas01.sql` as the main project script. `SET SERVEROUTPUT ON` may be enabled in Oracle SQL Developer to display output from PL/SQL procedures.
-
-## Notes
-
-This coursework was completed as a team project. The original SQL file is preserved unchanged in this repository.
