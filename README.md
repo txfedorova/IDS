@@ -1,6 +1,6 @@
 # IDS / Database Systems
 
-Oracle SQL/PLSQL relational database project with joins, triggers, stored procedures, indexing and materialized views.
+University team project implementing an Oracle SQL/PLSQL relational database with joins, triggers, stored procedures, indexing and materialized views.
 
 ## What this project demonstrates
 
