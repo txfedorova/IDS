@@ -97,13 +97,12 @@ erDiagram
 ```text
 .
 ├── README.md
-├── sql/
-│   ├── 01_schema.sql
-│   ├── 02_sample_data.sql
-│   ├── 03_queries.sql
-│   ├── 04_plsql.sql
-│   └── 05_performance_and_views.sql
-└── xfedor14_xramas01.sql   # original university submission
+└── sql/
+    ├── 01_schema.sql
+    ├── 02_sample_data.sql
+    ├── 03_queries.sql
+    ├── 04_plsql.sql
+    └── 05_performance_and_views.sql
 ```
 
 ## How to run
@@ -122,7 +121,7 @@ Run them in this order:
 
 ## Notes
 
-The original coursework was completed as a team project by **Tatiana Fedorova** and **Jakub Ramašeuski**. The original submitted file is kept in the repository. The files under `sql/` reorganize and clean the project for readability and portfolio presentation while keeping the same database concepts and functionality.
+This coursework was completed as a team project. The files under `sql/` reorganize and clean the project for readability and portfolio presentation while keeping the same database concepts and functionality.
 
 ## Skills demonstrated
 
